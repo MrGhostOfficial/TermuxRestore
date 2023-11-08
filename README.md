@@ -30,11 +30,8 @@
 <a href="https://www.google.com/maps/place/United+States"><img title="MrGhostOfficial[NetHunter]" src="https://img.shields.io/badge/MADE%20IN-AMERICA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge&logo=map"></a>
 [![Github](https://img.shields.io/badge/Gitlab-MrGhostOfficial-green?style=for-the-badge&logo=gitlab)](https://gitlab.com/MrGhostOfficial)</a>
 [![Github](https://img.shields.io/badge/Chat-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/MrGhostClassic)</a>
-</p>
-
 [![Github](https://img.shields.io/badge/YOUTUBE-HackerFake424-red?style=flat-square&logo=youtube)](https://m.youtube.com/@HackerFake424/)</a>
 </p>
-
 <p align="center">
 <a href="https://user-images.githubusercontent.com/67456616/191074634-b46d43b6-ad9f-44b9-b17b-7944002267a8.png"><img title="MrGhostOfficial-[NetHunter]" src="https://img.shields.io/badge/MrGhostOfficial-[NetHunter]-green?colorA=6f1111&colorB=0f1111&style=for-the-badge&logo=man"></a>
 <p align="center">
