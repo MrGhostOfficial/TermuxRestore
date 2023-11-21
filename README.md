@@ -109,7 +109,7 @@ OR Download Full From MEGA
    Link👉: https://mega.nz/file/pHtBjBhQ#GDhQH3wepbX0WzegbZhmonLqpprSiyyYop_zkseBh-0
 ```
 # [ Download com.termux.tar.gz File Copy Code paste in Termux☟ ]
-![Screenshot_image2](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_image2.jpg)
+![Screenshot_image1](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_image1.jpg)
 𝐍𝐨𝐭𝐞: You Need Internal storage 2GB Space For Installing 𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐭𝐚𝐫.𝐠𝐳<br/>
 Size download data-: 397MB<br/>
 just click here [𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐭𝐚𝐫.𝐠𝐳](https://mega.nz/file/YakSFb5a#qXgHi_HPKqCakXtyBI2dKBGkVLuPZpvtHx9OUrgmzDs) download and moved this file Internal storage download folder, install Termux.apk open and give storage permission use chrome browser and copy this command by one click paste and enter in termux.👇
@@ -127,7 +127,7 @@ cp -rf /sdcard/download/com.termux.tar.gz /data/data/com.termux;cd ..;cd ..;tar 
 # Termux phantom process kill disabled☟
 Hello User,<br/>
 After setup termux you need install also [Termux:Float.apk](https://f-droid.org/en/packages/com.termux.window/) to fix this termux phantom process kill, trun on wifi if you don't have wifi then you can use your friend mobile Hotspot connection after connected, go to your phone settings. Developer options/USB debugging/Wireless debugging/trun on.
-![Screenshot_image1](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_image1.jpg)
+![Screenshot_image2](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_image2.jpg)
 (Click/Pair device with pairing code/look like this and paste in termux)<br/>
 ```
 adb pair 172.19.0.1:36167
