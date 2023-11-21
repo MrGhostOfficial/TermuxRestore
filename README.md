@@ -112,7 +112,7 @@ OR Download Full From MEGA
 ![Screenshot_image1](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_image1.jpg)
 𝐍𝐨𝐭𝐞: You Need Internal storage 2GB Space For Installing 𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐭𝐚𝐫.𝐠𝐳<br/>
 Size download data-: 398MB<br/>
-just click here [𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐭𝐚𝐫.𝐠𝐳](https://mega.nz/file/YakSFb5a#qXgHi_HPKqCakXtyBI2dKBGkVLuPZpvtHx9OUrgmzDs) download and moved this file Internal storage download folder, install Termux.apk open and give storage permission use chrome browser and copy this command by one click paste and enter in termux.👇
+just click here [𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐭𝐚𝐫.𝐠𝐳](https://mega.nz/file/tS1hwZYS#KFb5_AkNwIxK7pKX1vaUVQo6zN_7kPALnasUIKFCWtc) download and moved this file Internal storage download folder, install Termux.apk open and give storage permission use chrome browser and copy this command by one click paste and enter in termux.👇
 ```
 termux-setup-storage
 ```
@@ -156,7 +156,7 @@ adb shell "/system/bin/device_config set_sync_disabled_for_tests persistent";adb
 ![Screenshot_image3](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_image3.jpg)
 𝐍𝐨𝐭𝐞: You Need Internal storage 3GB Space For Installing 𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐦𝐞𝐭𝐚𝐬𝐩𝐥𝐨𝐢𝐭.𝐭𝐚𝐫.𝐠𝐳<br/>
 Size download data-: 990MB<br/>
-just click here [𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐦𝐞𝐭𝐚𝐬𝐩𝐥𝐨𝐢𝐭.𝐭𝐚𝐫.𝐠𝐳](https://mega.nz/file/8XlBQYiJ#B1F_AEeJ3N0S_-CLRqg_lc3tnxWsqCKw54HD-hZ3sPw) download and moved this file Internal storage download folder, install Termux.apk open and give storage permission use chrome browser and copy this command by one click paste and enter in termux.👇
+just click here [𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐦𝐞𝐭𝐚𝐬𝐩𝐥𝐨𝐢𝐭.𝐭𝐚𝐫.𝐠𝐳](https://mega.nz/file/8DMXULTJ#RwAPwftHv7e5WjnrMEorRgaLd6vJd_N5_dCMVS_9bMY) download and moved this file Internal storage download folder, install Termux.apk open and give storage permission use chrome browser and copy this command by one click paste and enter in termux.👇
 ```
 termux-setup-storage
 ```
@@ -172,7 +172,7 @@ cp -rf /sdcard/download/com.termux.metasploit.tar.gz /data/data/com.termux;cd ..
 ![Screenshot_image4](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_image4.jpg)
 𝐍𝐨𝐭𝐞: You Need Internal storage 11GB Space For Installing 𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐦𝐞𝐭𝐚𝐬𝐩𝐥𝐨𝐢𝐭.𝐭𝐚𝐫.𝐠𝐳<br/>
 Size download data-: 2.93GB<br/>
-just click here [𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐤𝐚𝐥𝐢𝐧𝐞𝐭𝐡𝐮𝐧𝐭𝐞𝐫.𝐭𝐚𝐫.𝐠𝐳](https://mega.nz/file/4e1njKQR#aLmBOWwmdzsVQSnYD3RHgtgyuC7NPUlHuZrQyBB8h5s) download and moved this file Internal storage download folder, install Termux.apk open and give storage permission use chrome browser and copy this command by one click paste and enter in termux.👇
+just click here [𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐤𝐚𝐥𝐢𝐧𝐞𝐭𝐡𝐮𝐧𝐭𝐞𝐫.𝐭𝐚𝐫.𝐠𝐳](https://mega.nz/file/sDdXjSYZ#FqjBcp7yrhcbjYyCGxcVWavaVXMCYpwGj7N6SA24Xi4) download and moved this file Internal storage download folder, install Termux.apk open and give storage permission use chrome browser and copy this command by one click paste and enter in termux.👇
 ```
 termux-setup-storage
 ```
