@@ -188,7 +188,7 @@ cp -rf /sdcard/download/com.termux.kalinethunter.tar.gz /data/data/com.termux;cd
 If your Setup Nethunter installing complete then download this file have NetHunter KeX.apk and connect txt instruction enjoy.🐧<br/>
 File Name: NetHunterKexGUI.zip<br/>
 Apk Size: 23MB<br/>
-Link👇: https://mega.nz/file/RT1wwAIa#pjtTytj-2If47g5mva9qsF3NIN-4e3mW9BfzOBLOUD4
+Link👇: https://mega.nz/file/0DNQCb6J#sxB0OXu8eW_eVAnLvcNgutA3Qxf2r7hmQMkIDb6Ffxw
 
 # [ Some Screenshots ]
 ![Screenshot_image6](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_image6.jpg)
