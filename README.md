@@ -184,17 +184,18 @@ pkg install tar -y</a>
 ```
 cp -rf /sdcard/download/com.termux.kalinethunter.tar.gz /data/data/com.termux;cd ..;cd ..;tar -xvzf com.termux.kalinethunter.tar.gz;rm -rf com.termux.kalinethunter.tar.gz;cd $HOME
 ```
-If your Setup Nethunter installing complete then download this file have NetHunter KeX.apk and connect txt instruction enjoy.🐧
+![Screenshot_image5](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_image5.jpg)
+If your Setup Nethunter installing complete then download this file have NetHunter KeX.apk and connect txt instruction enjoy.🐧<br/>
 File Name: NetHunterKexGUI.zip<br/>
 Apk Size: 23MB<br/>
 Link👇: https://mega.nz/file/RT1wwAIa#pjtTytj-2If47g5mva9qsF3NIN-4e3mW9BfzOBLOUD4
 
 # [ Some Screenshots ]
-![Screenshot_image5](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_image5.jpg)
+![Screenshot_image6](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_image6.jpg)
 
-<img src=2![Screenshot_image6](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_image6.jpg)
+<img src=2![Screenshot_image7](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_image7.jpg)
 
-<img src=3![Screenshot_image7](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_image7.jpg)
+<img src=3![Screenshot_image8](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_image8.jpg)
 
 [[INFO](https://github.com/)] if you are facing any issues then Contact us telegram. And don't forget to Follow GitHub, Hope you Like it Enjoy.🥀👻
 
