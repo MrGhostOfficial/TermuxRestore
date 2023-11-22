@@ -125,8 +125,8 @@ pkg install tar -y</a>
 cp -rf /sdcard/download/com.termux.tar.gz /data/data/com.termux;cd ..;cd ..;tar -xvzf com.termux.tar.gz;rm -rf com.termux.tar.gz;cd $HOME
 ```
 # Termux phantom process kill disabled☟
-Hello User,<br/>
-After setup termux you need install also [Termux:Float.apk](https://f-droid.org/en/packages/com.termux.window/) to fix this termux phantom process kill, trun on wifi if you don't have wifi then you can use your friend mobile Hotspot connection after connected, go to your phone settings. Developer options/USB debugging/Wireless debugging/trun on.
+![Screenshot_Signal_9_issue](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_Signal_9_issue.jpg)
+Hello User, After setup termux you need install also [Termux:Float.apk](https://f-droid.org/en/packages/com.termux.window/) to fix this termux phantom process kill, trun on wifi if you don't have wifi then you can use your friend mobile Hotspot connection after connected, go to your phone settings. Developer options/USB debugging/Wireless debugging/trun on.
 ![Screenshot_image2](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_image2.jpg)
 (Click/Pair device with pairing code/look like this and paste in termux)<br/>
 ```
