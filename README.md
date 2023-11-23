@@ -170,19 +170,17 @@ cp -rf /sdcard/download/com.termux.metasploit.tar.gz /data/data/com.termux;cd ..
 ```
 # [ Download com.termux.kalinethunter.tar.gz File Copy Code paste in Termux☟ ]
 ![Screenshot_image4](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_image4.jpg)
-𝐍𝐨𝐭𝐞: You Need Internal storage 11GB Space For Installing 𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐦𝐞𝐭𝐚𝐬𝐩𝐥𝐨𝐢𝐭.𝐭𝐚𝐫.𝐠𝐳<br/>
-Size download data-: 2.93GB<br/>
-just click here [𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐤𝐚𝐥𝐢𝐧𝐞𝐭𝐡𝐮𝐧𝐭𝐞𝐫.𝐭𝐚𝐫.𝐠𝐳](https://mega.nz/file/sDdXjSYZ#FqjBcp7yrhcbjYyCGxcVWavaVXMCYpwGj7N6SA24Xi4) download and moved this file Internal storage download folder, install Termux.apk open and give storage permission use chrome browser and copy this command by one click paste and enter in termux.👇
+𝐍𝐨𝐭𝐞: You Need Internal storage 10GB Space For Installing KaliNetHunter<br/>
+Size download data-: 1.63GB<br/>
+just click here [𝐤𝐚𝐥𝐢𝐟𝐬-𝐚𝐫𝐦𝟔𝟒-𝐟𝐮𝐥𝐥.𝐭𝐚𝐫.𝐱𝐳](https://mega.nz/file/kXtXAQgQ#Yg1nzp-8SBmO-t3QqvHUPYO79BFYXlR59Sm8hRv--Co) download and moved this file Internal storage download folder, install Termux.apk open and give storage permission use chrome browser and copy this command by one click paste and enter in termux.👇
 ```
 termux-setup-storage
 ```
-<p align=center> 
-《if need then install optional》<br/>
-pkg install tar -y</a>
-</p>
-
 ```
-cp -rf /sdcard/download/com.termux.kalinethunter.tar.gz /data/data/com.termux;cd ..;cd ..;tar -xvzf com.termux.kalinethunter.tar.gz;rm -rf com.termux.kalinethunter.tar.gz;cd $HOME
+pkg update;pkg install curl -y;pkg install wget -y;pkg install zip -y;pkg install unzip -y;pkg install tar -y;pkg install root-repo;pkg install x11-repo;pkg install tsu -y;pkg install neofetch -y;pkg install termux-api;pkg install cowsay -y;pkg install jp2a -y;cp -rf /sdcard/download/kalifs-arm64-full.tar.xz $HOME;wget https://github.com/MrGhostOfficial/Allin1Images/blob/master/install-nethunter-termux.tar.gz;tar -xvzf install-nethunter-termux.tar.gz;rm -rf install-nethunter-termux.tar.gz;mv -v bash.bashrc $PREFIX/etc;mv -v ighostcontact ikalihelp neofetch $PREFIX/bin;./install-nethunter-termux;tar -xvzf kali-arm64.tar.gz;rm -rf kali-arm64.tar.gz;rm -rf README.md install-nethunter-termux kalifs-arm64-full.tar.xz;ikalihelp;nh
+```
+```
+sudo apt update;sudo apt install neofetch -y
 ```
 ![Screenshot_image5](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_image5.jpg)
 If your Setup Nethunter installing complete then download this file have NetHunter KeX.apk and connect txt instruction enjoy.🐧<br/>
