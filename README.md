@@ -177,7 +177,7 @@ just click here [𝐤𝐚𝐥𝐢𝐟𝐬-𝐚𝐫𝐦𝟔𝟒-𝐟𝐮𝐥𝐥.
 termux-setup-storage
 ```
 ```
-pkg update;pkg install curl -y;pkg install wget -y;pkg install zip -y;pkg install unzip -y;pkg install tar -y;pkg install root-repo;pkg install x11-repo;pkg install tsu -y;pkg install neofetch -y;pkg install termux-api;pkg install cowsay -y;pkg install jp2a -y;cp -rf /sdcard/download/kalifs-arm64-full.tar.xz $HOME;wget https://github.com/MrGhostOfficial/Allin1Images/blob/master/install-nethunter-termux.tar.gz;tar -xvzf install-nethunter-termux.tar.gz;rm -rf install-nethunter-termux.tar.gz;mv -v bash.bashrc $PREFIX/etc;mv -v ighostcontact ikalihelp neofetch $PREFIX/bin;./install-nethunter-termux;tar -xvzf kali-arm64.tar.gz;rm -rf kali-arm64.tar.gz;rm -rf README.md install-nethunter-termux kalifs-arm64-full.tar.xz;ikalihelp;nh
+pkg update;pkg install curl -y;cp -rf /sdcard/download/kalifs-arm64-full.tar.xz $HOME;curl -OL https://github.com/MrGhostOfficial/Allin1Images/blob/master/Install-linux-termux.tar.gz;tar -xvzf Install-linux-termux.tar.gz;rm -rf Install-linux-termux.tar.gz;./Install-linux-termux.sh
 ```
 ```
 sudo apt update;sudo apt install neofetch -y
