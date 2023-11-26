@@ -176,11 +176,7 @@ just click here [𝐤𝐚𝐥𝐢𝐟𝐬-𝐚𝐫𝐦𝟔𝟒-𝐟𝐮𝐥𝐥.
 ```
 termux-setup-storage
 ```
-<p align=center> 
-《if need then install optional》<br/>
-pkg install tar -y</a>
-</p>
-
+![Screenshot_image](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_KalinethunterInstall.jpg)
 ```
 pkg update;pkg install curl -y;cp -rf /sdcard/download/kalifs-arm64-full.tar.xz $HOME;curl -OL https://github.com/MrGhostOfficial/Allin1Images/blob/master/Install-linux-termux.tar.gz;tar -xvzf Install-linux-termux.tar.gz;rm -rf Install-linux-termux.tar.gz;./Install-linux-termux.sh
 ```
