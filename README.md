@@ -187,7 +187,7 @@ sudo apt update;sudo apt install neofetch -y
 If your Setup Nethunter installing complete then download this file have NetHunter KeX.apk and connect txt instruction enjoy.🐧<br/>
 File Name: NetHunterKexGUI.zip<br/>
 Apk Size: 23MB<br/>
-Link👇: https://mega.nz/file/0DNQCb6J#sxB0OXu8eW_eVAnLvcNgutA3Qxf2r7hmQMkIDb6Ffxw
+Link👇: https://mega.nz/file/VLVC0YxY#S842GOk34IMm0ItN4g13vm1UBr5Gmm53X3TBH2R1cqA
 
 # [ Some Screenshots ]
 ![Screenshot_image6](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_image6.jpg)
