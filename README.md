@@ -172,7 +172,7 @@ cp -rf /sdcard/download/com.termux.metasploit.tar.gz /data/data/com.termux;cd ..
 ![Screenshot_image4](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_image4.jpg)
 𝐍𝐨𝐭𝐞: You Need Internal storage 10GB Space For Installing KaliNetHunter<br/>
 Size download data-: 1.81GB<br/>
-just click here [𝐧𝐞𝐭𝐡𝐮𝐧𝐭𝐞𝐫-𝟐𝟎𝟐𝟐.𝟑-𝐠𝐞𝐧𝐞𝐫𝐢𝐜-𝐚𝐫𝐦𝟔𝟒-𝐤𝐚𝐥𝐢𝐟𝐬-𝐟𝐮𝐥𝐥.𝐳𝐢𝐩](https://mega.nz/file/YHcXkSoK#1rCysyIeXswTlXcl3BlGoFY89Lk96q3x_JH2mZL71Wg) download and moved this file Internal storage download folder, install Termux.apk open and give storage permission use chrome browser and copy this command by one click paste and enter in termux.👇
+just click here [𝐧𝐞𝐭𝐡𝐮𝐧𝐭𝐞𝐫-𝟐𝟎𝟐𝟐.𝟑-𝐠𝐞𝐧𝐞𝐫𝐢𝐜-𝐚𝐫𝐦𝟔𝟒-𝐤𝐚𝐥𝐢𝐟𝐬-𝐟𝐮𝐥𝐥.𝐳𝐢𝐩](https://mega.nz/file/YHcXkSoK#1rCysyIeXswTlXcl3BlGoFY89Lk96q3x_JH2mZL71Wg) download and moved this file Internal storage download folder, install Termux.apk open and give storage permission use chrome browser and copy this command by one click paste and enter in termux.👇 Or if you use magisk rooted phone then you can flash this 𝑛𝑒𝑡ℎ𝑢𝑛𝑡𝑒𝑟-2022.3-𝑔𝑒𝑛𝑒𝑟𝑖𝑐-𝑎𝑟𝑚64-𝑘𝑎𝑙𝑖𝑓𝑠-𝑓𝑢𝑙𝑙.𝑧𝑖𝑝 file directly.
 ```
 termux-setup-storage
 ```
