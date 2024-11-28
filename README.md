@@ -22,8 +22,8 @@
 
 <p>&nbsp;<img align="center" src="https://github.com/MrGhostOfficial/Allin1Images/blob/master/donate-bitcoin-address.svg" />
 <div align=center>
-  <h3><b>Binance USDT Wallet:
-  TMEgwL2mNsdYQYQ8cS2PfLVGSmyLpa2wnz</b></h3>
+  <h3><b>Binance BTC(SegWit) Wallet:
+  bc1q95g5hqmvfv2a6lg7eapmh2kwqu0kke4vhpc50w</b></h3>
 </div>
 </p>
 
