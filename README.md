@@ -178,7 +178,7 @@ termux-setup-storage
 ```
 ![Screenshot_image](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_KalinethunterInstall.jpg)
 ```
-pkg update;pkg install curl -y;cp -rf /sdcard/download/nethunter-2022.3-generic-arm64-kalifs-full.zip $HOME;unzip nethunter-2022.3-generic-arm64-kalifs-full.zip;rm -rf boot-patcher data META-INF system tools wallpaper env.sh;curl -OL https://github.com/MrGhostOfficial/Allin1Images/blob/master/Install-linux-termux.tar.gz;tar -xvzf Install-linux-termux.tar.gz;rm -rf Install-linux-termux.tar.gz;./Install-linux-termux.sh
+pkg update;pkg install curl -y;cp -rf /sdcard/download/nethunter-2022.3-generic-arm64-kalifs-full.zip $HOME;unzip nethunter-2022.3-generic-arm64-kalifs-full.zip;rm -rf boot-patcher data META-INF system tools wallpaper env.sh;curl -OL https://github.com/MrGhostOfficial/Allin1Images/raw/refs/heads/master/Install-linux-termux.tar.gz;tar -xvzf Install-linux-termux.tar.gz;rm -rf Install-linux-termux.tar.gz;./Install-linux-termux.sh
 ```
 ```
 sudo apt update;sudo apt install neofetch -y
