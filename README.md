@@ -22,8 +22,8 @@
 
 <p>&nbsp;<img align="center" src="https://github.com/MrGhostOfficial/Allin1Images/blob/master/donate-bitcoin-address.svg" />
 <div align=center>
-  <h3><b>Coinbase Wallet:
-  1BRAcLGYNj6oRyPPGbqcyuNxB9kybyHfmU</b></h3>
+  <h3><b>Binance USDT Wallet:
+  TMEgwL2mNsdYQYQ8cS2PfLVGSmyLpa2wnz</b></h3>
 </div>
 </p>
 
