@@ -111,8 +111,8 @@ OR Download Full From MEGA
 # [ Download com.termux.tar.gz File Copy Code paste in Termux☟ ]
 ![Screenshot_image1](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_image1.jpg)
 𝐍𝐨𝐭𝐞: You Need Internal storage 2GB Space For Installing 𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐭𝐚𝐫.𝐠𝐳<br/>
-Size download data-: 398MB<br/>
-just click here [𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐭𝐚𝐫.𝐠𝐳](https://mega.nz/file/wClGGJ6K#NgL1LW-fOCAr-8MKqgEaW3pPHSuqUbAlWMjiZqST0QQ) download and moved this file Internal storage download folder, install Termux.apk open and give storage permission use chrome browser and copy this command by one click paste and enter in termux.👇
+Size download data-: 401MB<br/>
+just click here [𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐭𝐚𝐫.𝐠𝐳](https://mega.nz/file/ZT1hGLRK#6awF_LCSFOk1xzAfNigddJzqdPWEH8CnUQzC-u7xexc) download and moved this file Internal storage download folder, install Termux.apk open and give storage permission use chrome browser and copy this command by one click paste and enter in termux.👇
 ```
 termux-setup-storage
 ```
@@ -122,7 +122,7 @@ pkg install tar -y</a>
 </p>
 
 ```
-cp -rf /sdcard/download/com.termux.tar.gz /data/data/com.termux;cd ..;cd ..;tar -xvzf com.termux.tar.gz;rm -rf com.termux.tar.gz;cd $HOME
+cp -rf /sdcard/download/com.termux.tar.gz /data/data/com.termux/files;cd ..;tar -xvzf com.termux.tar.gz;rm -rf com.termux.tar.gz;cd $HOME
 ```
 # Termux phantom process kill disabled☟
 ![Screenshot_Signal_9_issue](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_Signal_9_issue.jpg)
