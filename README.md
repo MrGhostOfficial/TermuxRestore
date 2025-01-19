@@ -81,23 +81,34 @@ https://
 1. Apk Name: MT Manager.apk
    Apk Size: 21MB
    Link👉: https://binmt.lanzouy.com/b01bivkzc
-   
+```
+```
 2. Apk Name: Hacker's Keyboard.apk
    Apk Size: 2.71MB
    Link👉: https://f-droid.org/packages/org.pocketworkstation.pckeyboard/
-
+```
+```
 3. Apk Name: Termux.apk
    Apk Size: 97.03MB
    Link👉: https://f-droid.org/en/packages/com.termux/
-
+```
+OR Download Termux This Version👇
+```
+4. Name: Termux apps on Google Play
+   Apk Size: 57.79MB
+   Link👉: https://github.com/termux-play-store/termux-apps
+```
+```
 4. Apk Name: Termux:API.apk
    Apk Size: 2.74MB
    Link👉: https://f-droid.org/en/packages/com.termux.api/
-
+```
+```
 5. Apk Name: Termux:Float.apk
    Apk Size: 2.12MB
    Link👉: https://f-droid.org/en/packages/com.termux.window/
-
+```
+```
 6. Apk Name: Termux:Styling.apk
    Apk Size: 18.50MB
    Link👉: https://f-droid.org/en/packages/com.termux.styling/
