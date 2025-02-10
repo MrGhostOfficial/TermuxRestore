@@ -92,12 +92,6 @@ https://
    Apk Size: 97.03MB
    Link👉: https://f-droid.org/en/packages/com.termux/
 ```
-OR Download Termux This Version👇
-```
-4. Name: Termux apps on Google Play
-   Apk Size: 57.79MB
-   Link👉: https://github.com/termux-play-store/termux-apps
-```
 ```
 4. Apk Name: Termux:API.apk
    Apk Size: 2.74MB
