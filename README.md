@@ -154,12 +154,7 @@ adb connect 172.19.0.1:38943
 ```
 adb devices -l
 ```
-
-(Start adb run this command) 
-```
-adb shell
-```
-Take new season in termux and paste this command to Fix (signal 9) error closed problem👇.
+Paste this command to Fix (signal 9) error closed problem👇.
 ```
 adb shell "/system/bin/device_config set_sync_disabled_for_tests persistent";adb shell "/system/bin/device_config put activity_manager max_phantom_processes 2147483647";adb shell settings put global settings_enable_monitor_phantom_procs false;adb shell "/system/bin/dumpsys activity settings | grep max_phantom_processes";adb shell "/system/bin/device_config get activity_manager max_phantom_processes"
 ```
