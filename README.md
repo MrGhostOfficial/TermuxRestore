@@ -192,9 +192,7 @@ Link👇: https://mega.nz/file/VLVC0YxY#S842GOk34IMm0ItN4g13vm1UBr5Gmm53X3TBH2R1
 # [ Some Screenshots ]
 ![Screenshot_image6](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_image6.jpg)
 
-<img src=2![Screenshot_image7](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_image7.jpg)
-
-<img src=3![Screenshot_image8](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_image8.jpg)
+<img src=2![Screenshot_image7](https://raw.githubusercontent.com/MrGhostOfficial/Allin1Images/refs/heads/master/Screenshot_aW1hZ2U3.jpg)
 
 [[INFO](https://github.com/)] if you are facing any issues then Contact us telegram. And don't forget to Follow GitHub, Hope you Like it Enjoy.🥀👻
 
