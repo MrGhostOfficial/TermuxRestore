@@ -116,8 +116,8 @@ OR Download Full From MEGA
 # [ Download com.termux.tar.gz File Copy Code paste in Termux☟ ]
 ![Screenshot_image1](https://raw.githubusercontent.com/MrGhostOfficial/Allin1Images/refs/heads/master/Screenshot_aW1hZ2Ux.jpg)
 𝐍𝐨𝐭𝐞: You Need Internal storage 2GB Space For Installing 𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐭𝐚𝐫.𝐠𝐳<br/>
-Size download data-: 475MB<br/>
-just click here [𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐭𝐚𝐫.𝐠𝐳](https://mega.nz/file/Ee9kmDSa#VbtJgVzAV6OrwLr2aryRiUUkleQ2liTwLoXx6Nobr_o) download and moved this file Internal storage download folder, install Termux.apk open and give storage permission use chrome browser and copy this command by one click paste and enter in termux.👇
+Size download data-: 889MB<br/>
+just click here [𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐭𝐚𝐫.𝐠𝐳](https://mega.nz/file/xH9WnDLL#iot5F3MtvzKgwdTjFBzdOGuwGC8T1RlJA2Q5xl-TZ_I) download and moved this file Internal storage download folder, install Termux.apk open and give storage permission use chrome browser and copy this command by one click paste and enter in termux.👇
 ```
 termux-setup-storage
 ```
@@ -155,8 +155,8 @@ adb shell "/system/bin/device_config set_sync_disabled_for_tests persistent";adb
 # [ Download com.termux.metasploit.tar.gz File Copy Code paste in Termux☟ ]
 ![Screenshot_image3](https://github.com/MrGhostOfficial/Allin1Images/blob/master/Screenshot_image3.jpg)
 𝐍𝐨𝐭𝐞: You Need Internal storage 3GB Space For Installing 𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐦𝐞𝐭𝐚𝐬𝐩𝐥𝐨𝐢𝐭.𝐭𝐚𝐫.𝐠𝐳<br/>
-Size download data-: 990MB<br/>
-just click here [𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐦𝐞𝐭𝐚𝐬𝐩𝐥𝐨𝐢𝐭.𝐭𝐚𝐫.𝐠𝐳](https://mega.nz/file/8DMXULTJ#RwAPwftHv7e5WjnrMEorRgaLd6vJd_N5_dCMVS_9bMY) download and moved this file Internal storage download folder, install Termux.apk open and give storage permission use chrome browser and copy this command by one click paste and enter in termux.👇
+Size download data-: 1GB<br/>
+just click here [𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐦𝐞𝐭𝐚𝐬𝐩𝐥𝐨𝐢𝐭.𝐭𝐚𝐫.𝐠𝐳](https://mega.nz/file/Re1x0ZyA#fU_brKuJN24jcEQdPs1zrCev9eQknz5p2VHtWVLy39Y) download and moved this file Internal storage download folder, install Termux.apk open and give storage permission use chrome browser and copy this command by one click paste and enter in termux.👇
 ```
 termux-setup-storage
 ```
