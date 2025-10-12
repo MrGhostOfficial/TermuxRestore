@@ -116,8 +116,8 @@ OR Download Full From MEGA
 # [ Download com.termux.tar.gz File Copy Code paste in Termux☟ ]
 ![Screenshot_image1](https://raw.githubusercontent.com/MrGhostOfficial/Allin1Images/refs/heads/master/Screenshot_aW1hZ2Ux.png)
 𝐍𝐨𝐭𝐞: You Need Internal storage 2GB Space For Installing 𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐭𝐚𝐫.𝐠𝐳<br/>
-Size download data-: 889MB<br/>
-just click here [𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐭𝐚𝐫.𝐠𝐳](https://mega.nz/file/xH9WnDLL#iot5F3MtvzKgwdTjFBzdOGuwGC8T1RlJA2Q5xl-TZ_I) download and moved this file Internal storage download folder, install Termux.apk open and give storage permission use chrome browser and copy this command by one click paste and enter in termux.👇
+Size download data-: 439MB<br/>
+just click here [𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐭𝐚𝐫.𝐠𝐳](https://mega.nz/file/MHEAiKJC#LgParM1fewFnovt0iK5YFvsaZs88gYjFMIT_E5xbg3w) download and moved this file Internal storage download folder, install Termux.apk open and give storage permission use chrome browser and copy this command by one click paste and enter in termux.👇
 ```
 termux-setup-storage
 ```
